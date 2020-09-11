@@ -1,0 +1,11 @@
+.root{
+	-fx-background-image: url("hex.jpg");
+	-fx-background-size:cover,auto;
+	-fx-font-family: "Agency FB";
+	-fx-font-size:20.0px;
+
+}
+
+.spell-error {
+	-fx-effect: dropshadow(gaussian, red, 2, 0, 0, 0);
+}
